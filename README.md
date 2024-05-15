@@ -28,3 +28,4 @@ _Etapa 5: Evaluación del modelo_
   
 _Etapa 6: Uso del modelo entrenado con ejemplos_  
   Predicción de sentimiento: Utiliza el modelo entrenado para predecir el sentimiento de una nueva reseña de película. (Una positiva y una negativa).
+  En la imagen adjunta se puede ver una muestra de salida en la consola de Visual Studio Code como resultado de la ejecución del script.
