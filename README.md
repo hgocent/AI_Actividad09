@@ -1,8 +1,8 @@
 **Inteligencia Artificial - Universidad de Palermo**
 Resolución de la actividad numero 09 Redes neuronales convolucionales
+Alumno: Hugo Centurion - Legajo: 85594
 
 Este ejercicio realiza un simple análisis de sentimientos sobre reseñas de películas. Predice si una reseña ingresada corresponde a un comentario positivo o negativo.
-
 Para explicar el código a nivel general, lo separé en distintas etapas según el orden de ejecución, las mismas son:
 
 _Etapa 1: Preprocesamiento de los datos_
