@@ -20,7 +20,7 @@ _Etapa 3: Tokenización y secuenciación de texto_
 _Etapa 4: Construcción y entrenamiento del modelo_
   Definición del modelo: Define un modelo de red neuronal secuencial utilizando capas de Embedding y LSTM.
   Compilación del modelo: Configura el modelo para el entrenamiento especificando la función de pérdida y el optimizador.
-  Entrenamiento del modelo: Entrena el modelo utilizando los datos de entrenamiento preparados.
+  Entrenamiento del modelo: Entrena el modelo utilizando los datos preparados del dataset. Adjunto el archivo del modelo entrenado (trained-imdb-reviews.h5) para poder usarlo sin tener que repetir el proceso de entrenamiento.
   
 _Etapa 5: Evaluación del modelo_
   Evaluación del rendimiento: Evalúa el rendimiento del modelo utilizando los datos de prueba y calcula su precisión.
